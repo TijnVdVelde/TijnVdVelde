@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TijnVdVelde / Tijn Van de Velde
 - 👀 I’m interested in finding new software that could be useful when I use my PC.
-- 🌱 I’m currently learning Python, C# and Laravel.
-- 💞️ I’m looking to collaborate on small Python projects.
+- 🌱 I’m currently learning HTML, CSS and Wordpress (Divi).
+- 💞️ I’m looking to collaborate on small Divi projects.
 - 📫 How to reach me vandeveldetijn@gmail.com
 
 <!---
